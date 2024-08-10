@@ -1,22 +1,24 @@
 
-App description 
-## About
+# App description 
+
+
+# About
 ContactApp is a simple and intuitive application designed to manage your contacts efficiently.
 Whether you need to store personal contacts, business associates, or any other important connections, ContactApp provides a seamless experience to keep your information organized and easily accessible.
 
-## Feactures
+# Feactures
 
 The Android app lets you
 - Add New Contacts: Easily add new contacts with details like name, phone number, email.
 - Edit Contacts: Update or modify contact information as needed.
 - Delete Contacts: Remove contacts that are no longer needed.
 - Adjust theme : dark and light
-- interface change : use android and ios both in one app
+- Interface change : use android and ios both in one app
 
 
 
 
-## Screenshots
+# Screenshots
 <img src="https://github.com/user-attachments/assets/d86ec024-e3ee-4572-9787-495a9e5ec2da" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/950bec3c-f303-4a6d-b96d-ffc1a7da7e26" alt="App Screenshot" width="200" height="400"/>
 <img src="https://github.com/user-attachments/assets/20e8bc4d-f5b7-4983-9cb4-65f88ff30c12" alt="App Screenshot" width="200" height="400"/>
