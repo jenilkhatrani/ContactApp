@@ -22,7 +22,7 @@ The Android app lets you
 <img src="https://github.com/user-attachments/assets/34dee7ad-b414-4407-91cf-348f599def7d" alt="App Screenshot" width="200" height="400"/> &#160;
 <img src="https://github.com/user-attachments/assets/e50010ba-163d-4065-abb2-60b0835052db" alt="App Screenshot" width="200" height="400"/> &#160;
 <img src="https://github.com/user-attachments/assets/2068ef46-1e52-479b-97f1-86927c8223d7" alt="App Screenshot" width="200" height="400"/> &#160;
-<img src="https://github.com/user-attachments/assets/cd0882e7-2f03-49d2-b7ca-7f02dee473e7" alt="App Screenshot" width="200" height="400"/> &#160;<br><br>
+<img src="https://github.com/user-attachments/assets/cd0882e7-2f03-49d2-b7ca-7f02dee473e7" alt="App Screenshot" width="200" height="400"/> <br><br>
 <img src="https://github.com/user-attachments/assets/71c2b344-99dc-4cb7-a0d9-61d0336b0276" alt="App Screenshot" width="200" height="400"/>&#160;
 <img src="https://github.com/user-attachments/assets/4a923d55-27a3-4017-9672-3c95fdafd7e0" alt="App Screenshot" width="200" height="400"/>&#160;
 <img src="https://github.com/user-attachments/assets/cbe741e0-b78b-4868-b011-55dc595085b1" alt="App Screenshot" width="200" height="400"/>&#160;
